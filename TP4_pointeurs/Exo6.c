@@ -23,6 +23,6 @@ char suppChaine(char *chaineA, char *chaineB){
 int main(){
 
     char chaineA[] = "bonjour je m'appele raphael et je suis étudiant" ;
-    char chaineB[] = "je"
+    char chaineB[] = "je";
 
 }
