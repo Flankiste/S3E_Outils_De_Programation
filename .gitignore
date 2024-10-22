@@ -55,5 +55,6 @@ Mkfile.old
 dkms.conf
 
 # VS code json files
+.vscode
 launch.json
 tasks.json
